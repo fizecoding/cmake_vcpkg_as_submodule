@@ -1,4 +1,6 @@
-#Templet of cmake wiht vcpkg as submodule
+# Templet of cmake wiht vcpkg as submodule
+
+- [中文](./readme_cn.md)
 
 ## requirement
 
